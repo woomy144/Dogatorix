@@ -4,7 +4,17 @@
     
 ```javascript
 ​
-const Dogatorix = "Moron";
+const Dogatorix = {
+    name: {
+        first: "Tobias",
+        last: undefined
+    }
+    birth: 1170394627,
+    death: undefined,
+    specialty: "Simulations",
+    hobbies: ["coding", "drawing", "writing"],
+    lies: false
+};
 ​
 ```
 </h3>
