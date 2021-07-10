@@ -10,7 +10,7 @@ const Dogatorix = {
         last: undefined
     }
     birth: 1170394627,
-    death: undefined,
+    death: NaN,
     specialty: "Simulations",
     hobbies: ["coding", "drawing", "writing"],
     lies: false,
