@@ -14,7 +14,8 @@ const Dogatorix = {
     specialty: "Simulations",
     hobbies: ["coding", "drawing", "writing"],
     lies: false,
-    current_project: "https://wyvern.chat"
+    current_project: "https://wyvern.chat",
+    discord: "Dogatorix#2044"
 };
 ​
 ```
