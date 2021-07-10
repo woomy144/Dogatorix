@@ -6,14 +6,15 @@
 ​
 const Dogatorix = {
     name: {
-        first: "Tobias",
+        first: "Tobi",
         last: undefined
     }
     birth: 1170394627,
     death: undefined,
     specialty: "Simulations",
     hobbies: ["coding", "drawing", "writing"],
-    lies: false
+    lies: false,
+    current_project: "https://wyvern.chat"
 };
 ​
 ```
