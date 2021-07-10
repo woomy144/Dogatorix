@@ -8,7 +8,7 @@ const Dogatorix = {
     name: {
         first: "Tobi",
         last: undefined
-    }
+    },
     birth: 1170394627,
     death: NaN,
     specialty: "Simulations",
