@@ -9,7 +9,7 @@ const Dogatorix = {
         first: "Toby",
         last: "Magne"
     },
-    birth: 1170394627,
+    birth: 1170351427,
     death: NaN,
     specialty: "Simulations",
     hobbies: ["coding", "drawing", "writing"],
