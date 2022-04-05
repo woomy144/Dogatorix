@@ -6,14 +6,11 @@
 ​
 const Dogatorix = {
     name: {
-        first: "Toby",
-        last: "Magne"
+        first: "Charlotte",
+        last: null
     },
     birth: 1170351427,
     death: NaN,
-    specialty: "Simulations",
-    hobbies: ["coding", "drawing", "writing"],
-    current_project: false,
     discord: "Dogatorix#2044"
 };
 ​
